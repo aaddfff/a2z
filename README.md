@@ -22,6 +22,7 @@ Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso
 - [ ] Run first docker container - phpmyadmin
 - [x] Upload installed vm zip image to Gdrive
 
+# z01
 Setelah selesai install vm yang dilengkapi Docker, kita boleh remote OS tersebut menggunakan ssh. untuk melihat senarai container sila gunakan command berikut
 ``` sudo docker ps ```
 
