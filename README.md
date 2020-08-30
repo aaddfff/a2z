@@ -33,6 +33,6 @@ ok masa yang ditunggu-tunggu, docker pertama kita jeng jeng jeng .. phpmyadmin. 
 
 dah run kita test dekat browser yer.
 
-[![Run first docker container](https://img.youtube.com/vi/7NICbKX86KA/0.jpg)](https://www.youtube.com/watch?v=7NICbKX86KA "Run phpmyadmin using docker")
+[![Run first docker container](https://img.youtube.com/vi/uWMMArw1iv4/0.jpg)](https://youtu.be/uWMMArw1iv4 "Run phpmyadmin using docker")
 
 episod seterusnya a02. 
