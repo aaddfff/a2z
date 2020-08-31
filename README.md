@@ -17,3 +17,5 @@ cawangan dalam github ni akan pakai a dan z sahaja. takdak b ka c ka s ka o ka i
 
 # next
 tukarkan branch dalam github ini dari master ke a01. di branch a01 ada disediakan video stream dari youtube. selamat mencuba!
+
+[Switch to branch a01](https://github.com/aaddfff/a2z/tree/a01 "Installing Ubuntu Server 20 in vmware player")
