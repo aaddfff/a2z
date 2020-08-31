@@ -11,7 +11,6 @@ Alhamdulillah sempena cuti hari Kemerdekaan Malaysia yang ke 63, saya memikirkan
 
 ## pekej
 - docker
-- nginx
 
 # a01
 Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso ubuntu server
@@ -35,5 +34,8 @@ ok masa yang ditunggu-tunggu, docker pertama kita jeng jeng jeng .. phpmyadmin. 
 dah run kita test dekat browser yer.
 
 [![Run first docker container](https://img.youtube.com/vi/uWMMArw1iv4/0.jpg)](https://youtu.be/uWMMArw1iv4 "Run phpmyadmin using docker")
+
+## result
+[Ubuntu Server 20 vm-image by sir](https://drive.google.com/file/u/2/d/1VuqKiLdjnChREQvg2iOyZNGFb6HrShmg/view?usp=sharing "download from Gdrive")
 
 episod seterusnya a02. 
