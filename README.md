@@ -24,3 +24,4 @@ Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso
 [![Installing Ubuntu Server](https://img.youtube.com/vi/7NICbKX86KA/0.jpg)](https://www.youtube.com/watch?v=7NICbKX86KA "Installing Ubuntu Server")
 
 Untuk result a01 sila tukarkan ke branch z01. Saya tunggu uol di sana!
+[Switch to branch z01](https://github.com/aaddfff/a2z/tree/z01 "Result")
