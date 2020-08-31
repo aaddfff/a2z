@@ -11,7 +11,6 @@ Alhamdulillah sempena cuti hari Kemerdekaan Malaysia yang ke 63, saya memikirkan
 
 ## pekej
 - docker
-- nginx
 
 # a01
 Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso ubuntu server
