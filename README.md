@@ -23,10 +23,6 @@ Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso
 
 [![Installing Ubuntu Server](https://img.youtube.com/vi/7NICbKX86KA/0.jpg)](https://www.youtube.com/watch?v=7NICbKX86KA "Installing Ubuntu Server")
 
-Untuk result a01 sila tukarkan ke branch z01. Saya tunggu uol di sana!
-
-[Switch to branch z01](https://github.com/aaddfff/a2z/tree/z01 "Result")
-
 # Kelassir | Docker a2z part 1 (a01)
 Install Ubuntu Server 20 di dalam VMWare Workstation Player 15.
 - Memilih Docker sewaktu installation
@@ -45,3 +41,7 @@ Setelah membaca kekangan di atas saya harap semua faham proses yang dilakukan in
 
 # Next
 [Switch to branch z01](https://github.com/aaddfff/a2z/tree/z01 "Kelassir | Docker a2z part 2 (z01)")
+
+Untuk result a01 sila tukarkan ke branch z01. Saya tunggu uol di sana!
+
+[Switch to branch z01](https://github.com/aaddfff/a2z/tree/z01 "Result")
