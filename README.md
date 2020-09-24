@@ -38,12 +38,13 @@ Sekali lagi dimaklumkan bahawa ini adalah live session dan semestinya banyak per
 
 Dengan ini saya akan menyenaraikan kekangan yang terdapat dalam video ini setelah saya menonton semula agar para penonton nanti boleh lah kalau nak tekan skip dan skip. InsyaAllah kita memudah dan mempercepatkan proses. Kemungkinan anda akan siap semua proses lebih awal dari live session saya ini. 
 
-{ senarai kekangan akan menyusul }
+* [0:59 - 1:30] Sebenaqnya tak perlu pun double click kat iso file dan mount ke my computer.
+* [
 
 ## Live Session
 Setelah membaca kekangan di atas saya harap semua faham proses yang dilakukan ini adalah live session. Jadi untuk aktiviti skip - skip yang dilakukan agar tidak terlepas point utama saya akan menyenaraikan task-task yang patut dilakukan.
 
-{ senarai task akan menyusul }
+* [1:30 - 3:58] Install vmware player (version 15.5 vmware workstation player)
 
 # Next
 [Switch to branch z01](https://github.com/aaddfff/a2z/tree/z01 "Kelassir | Docker a2z part 2 (z01)")
