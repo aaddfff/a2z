@@ -1,7 +1,7 @@
 # a2z
 Language: Bahasa Melayu (Malaysia)
 
-## intro
+## intro [Boleh Skip ni kalau dah baca dari previous Branch]
 Bismillahirahmanirahim.
 Alhamdulillah sempena cuti hari Kemerdekaan Malaysia yang ke 63, saya memikirkan satu alternatif untuk belajar Docker melalui git a to z. Kenapa A to Z? Adalah... hihihi
 
@@ -12,7 +12,7 @@ Alhamdulillah sempena cuti hari Kemerdekaan Malaysia yang ke 63, saya memikirkan
 ## pekej
 - docker
 
-# a01
+# a01 [Ok Start sini]
 Episod pertama ini kita akan install OS dulu. saya gunakan vmware player dan iso ubuntu server
 
 - [ ] Install vmware
