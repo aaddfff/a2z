@@ -29,7 +29,7 @@ Install Ubuntu Server 20 di dalam VMWare Workstation Player 15.
 Jom kita highlight
 - Memilih Docker sewaktu installation
 
-Kenapa video ni sejam lebih? Oh sebab ini adalah live version. Faktor menunggu satu-satu process tu siap dijalankan menyumbang kepada peningkatan masa video ini dan juga beberapa kekangan yang berlaku semasa live. Ini termasuk yang sudah dijangka dan di luar jangkaan. Kalau tak mau hadap boleh skip - skip video ni OK!
+Kenapa video ni dekat sejam? Oh sebab ini adalah live session. Faktor menunggu satu-satu process tu siap dijalankan menyumbang kepada peningkatan masa video ini dan juga beberapa kekangan yang berlaku semasa live. Ini termasuk yang sudah dijangka dan di luar jangkaan. Kalau tak mau hadap boleh skip - skip video ni OK!
 
 ## Kekangan
 Sekali lagi dimaklumkan bahawa ini adalah live session dan semestinya banyak perkara yang tak diingini berlaku. Lagipun live streaming ini dilakukan melalui Windows 10 yang hidup atas VMWare VSphere dengan spesifikasi hanya Dual Core processor dan RAM allocation 4GB sahaja. Streaming ke youtube pula menggunakan software OBS yang memakan banyak resources. Yang paling sempoi, capaian ke Windows melalui Chrome Remote Desktop. Ini bermaksud PC yang digunakan dalam ni tak wujud pun pada mana-mana machine.
